@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+     <!-- DynameListView -->
+	 
+    <string name="refresh_normal">上拉刷新</string>
+    <string name="loadmore_normal">下拉刷新</string>
+    
+    <string name="refresh_will">上拉刷新</string>
+    <string name="loadmore_will">松开加载</string>
+    
+    <string name="refreshing">正在刷新&#8230;</string>
+    <string name="loadmoreing">正在加载&#8230;</string>
+    
+    <string name="refresh_stop">停止刷新</string>
+    <string name="loadmore_stop">停止加载</string>
+    
+</resources>

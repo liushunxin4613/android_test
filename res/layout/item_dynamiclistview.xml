@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <customLib.DynamicListView
+        android:id="@+id/item_dylistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/view_press"
+        android:divider="@null"
+        android:dividerHeight="@dimen/view_margin_small"
+        android:drawSelectorOnTop="true"
+        android:paddingLeft="@dimen/view_margin_small"
+        android:paddingRight="@dimen/view_margin_small"
+        android:scrollbars="none" >
+    </customLib.DynamicListView>
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res/layout/actionbar_three.xml" />
+        <ignore path="res/layout/item_gridview.xml" />
+        <ignore path="res/layout/item_gridview1.xml" />
+    </issue>
+    <issue id="RtlHardcoded">
+        <ignore path="res/layout/actionbar_three.xml" />
+        <ignore path="res/layout/item_gridview1.xml" />
+    </issue>
+    <issue id="UseCompoundDrawables">
+        <ignore path="res/layout/item_gridview.xml" />
+    </issue>
+</lint>
