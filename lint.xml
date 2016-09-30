@@ -11,5 +11,6 @@
     </issue>
     <issue id="UseCompoundDrawables">
         <ignore path="res/layout/item_gridview.xml" />
+        <ignore path="res/layout/item_gridview.xml" />
     </issue>
 </lint>

@@ -11,6 +11,7 @@ import android.os.Message;
 import base.dialog.BaseDialog;
 import util.data.ViewConfigUtil.VolleyConfig;
 
+@SuppressLint("HandlerLeak")
 public class DialogFactory {
 
 	private BaseDialog dialog;
